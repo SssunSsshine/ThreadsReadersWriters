@@ -1,0 +1,8 @@
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\bin\Debug\L5.221ReadersWriters.exe.config
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\bin\Debug\L5.221ReadersWriters.exe
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\bin\Debug\L5.221ReadersWriters.pdb
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\obj\Debug\L5.221ReadersWriters.csproj.AssemblyReference.cache
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\obj\Debug\L5.221ReadersWriters.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\obj\Debug\L5.221ReadersWriters.csproj.CoreCompileInputs.cache
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\obj\Debug\L5.221ReadersWriters.exe
+D:\User\unic\Software\L5.221ReadersWriters\L5.221ReadersWriters\obj\Debug\L5.221ReadersWriters.pdb
